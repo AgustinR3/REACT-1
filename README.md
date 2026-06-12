@@ -11,14 +11,19 @@ Uso de selectores ID y class.
 y demas estructuras y propiedades aprendidas.
 
 Instrucciones para clonar el repositorio
+
 Entrar: https://github.com/AgustinR3/REACT-1.git
+
 Abrir la carpeta del proyecto.
+
 Ejecutar el archivo index.html en un navegador web.
 
 ![Captura del proyecto](img/capturagit.png)
 
 Autor
+
 Nombre: Agustín Ignacio Retamoso
+
 Curso: Diplomado Full Stack
 
 Bibliografía y créditos
